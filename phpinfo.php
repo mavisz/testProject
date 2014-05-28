@@ -6,4 +6,6 @@
 	function back($str) {
 		echo "Come with me";	
 	}
+	
+	echo "Concat".back($input);
 ?>
