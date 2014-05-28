@@ -1,8 +1,9 @@
 <?php
 	phpinfo();
 	echo "I'm back to coding web and mobile";
-	echo "Come with me";
-	function back {
-
-}
+	$input="Go Go Go!!"
+	back($input);
+	function back($str) {
+		echo "Come with me";	
+	}
 ?>
